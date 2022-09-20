@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\BoluBreakfast\BoluBreakfast.Contracts\bin\Debug\net6.0\BoluBreakfast.Contracts.deps.json
+C:\Users\HP\Desktop\BoluBreakfast\BoluBreakfast.Contracts\bin\Debug\net6.0\BoluBreakfast.Contracts.dll
+C:\Users\HP\Desktop\BoluBreakfast\BoluBreakfast.Contracts\bin\Debug\net6.0\BoluBreakfast.Contracts.pdb
+C:\Users\HP\Desktop\BoluBreakfast\BoluBreakfast.Contracts\obj\Debug\net6.0\BoluBreakfast.Contracts.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\BoluBreakfast\BoluBreakfast.Contracts\obj\Debug\net6.0\BoluBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\BoluBreakfast\BoluBreakfast.Contracts\obj\Debug\net6.0\BoluBreakfast.Contracts.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\BoluBreakfast\BoluBreakfast.Contracts\obj\Debug\net6.0\BoluBreakfast.Contracts.AssemblyInfo.cs
+C:\Users\HP\Desktop\BoluBreakfast\BoluBreakfast.Contracts\obj\Debug\net6.0\BoluBreakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BoluBreakfast\BoluBreakfast.Contracts\obj\Debug\net6.0\BoluBreakfast.Contracts.dll
+C:\Users\HP\Desktop\BoluBreakfast\BoluBreakfast.Contracts\obj\Debug\net6.0\refint\BoluBreakfast.Contracts.dll
+C:\Users\HP\Desktop\BoluBreakfast\BoluBreakfast.Contracts\obj\Debug\net6.0\BoluBreakfast.Contracts.pdb
+C:\Users\HP\Desktop\BoluBreakfast\BoluBreakfast.Contracts\obj\Debug\net6.0\ref\BoluBreakfast.Contracts.dll
